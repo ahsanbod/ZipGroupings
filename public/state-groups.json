@@ -1,0 +1,210 @@
+[
+	{
+		"state": "Alabama",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Alaska",
+		"stateGroup": "CANNOT SELL"
+	},
+	{
+		"state": "Arizona",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Arkansas",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "California",
+		"stateGroup": "West"
+	},
+	{
+		"state": "Colorado",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Connecticut",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Delaware",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "District of Columbia",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Florida",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Georgia",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Hawaii",
+		"stateGroup": "CANNOT SELL"
+	},
+	{
+		"state": "Idaho",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Illinois",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Indiana",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Iowa",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Kansas",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Kentucky",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Louisiana",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Maine",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Maryland",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Massachusetts",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Michigan",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Minnesota",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Mississippi",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Missouri",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Montana",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Nebraska",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Nevada",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "New Hampshire",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "New Jersey",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "New Mexico",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "New York",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "North Carolina",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "North Dakota",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Ohio",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Oklahoma",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Oregon",
+		"stateGroup": "West"
+	},
+	{
+		"state": "Pennsylvania",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Puerto Rico",
+		"stateGroup": "CANNOT SELL"
+	},
+	{
+		"state": "Rhode Island",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "South Carolina",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "South Dakota",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Tennessee",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Texas",
+		"stateGroup": "BadSouth"
+	},
+	{
+		"state": "Utah",
+		"stateGroup": "Mountain"
+	},
+	{
+		"state": "Vermont",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Virginia",
+		"stateGroup": "Neutral"
+	},
+	{
+		"state": "Washington",
+		"stateGroup": "West"
+	},
+	{
+		"state": "West Virginia",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Wisconsin",
+		"stateGroup": "GoodNorth"
+	},
+	{
+		"state": "Wyoming",
+		"stateGroup": "Mountain"
+	}
+]
