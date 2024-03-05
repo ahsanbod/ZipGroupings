@@ -1,0 +1,39 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model LeadScoring {
+  id                         String   @id @map("_id") @default(auto()) @db.ObjectId
+  postalCode                 String
+  medianHouseHoldIncome      String
+  medianHouseHoldIncomeValue String
+  medianAge                  String
+  medianAgeValue             String
+  population                 String
+  populationValue            String
+  edHighSchool               String
+  edHighSchoolValue          String
+  edSomeCollege              String
+  edSomeCollegeValue         String
+  edAssociates               String
+  edAssociatesValue          String
+  edHighSchoolOrHigher       String
+  edHighSchoolOrHigherValue  String
+  edBachelorsOrHigher        String
+  edBachelorsOrHigherValue   String
+  laborParticipation         String
+  laborParticipationValue    String
+  createdAt                  DateTime @default(now())
+  updatedAt                  DateTime @updatedAt
+}
